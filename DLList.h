@@ -1,28 +1,4 @@
 //****************************************************************************************************
-//
-//		File:					DLList.h
-//		
-//		Student:				Haleigh Cates
-//
-//		Assignment:	 			Program  #11
-//
-//		Course Name:			Data Structures I 
-//
-//		Course Number:			COSC 3050 - 01
-//
-//		Due:					December 4, 2018
-//
-//
-//		This program enhances the linked list program #6 to use a 
-//		doubly linked list.
-//
-//		Other files required:	
-//								Node.h
-//								student.h
-//								studentList.cpp
-//								studentFile.txt
-//		
-//****************************************************************************************************
 
 #ifndef DLLIST_H
 #define DLLIST_H
